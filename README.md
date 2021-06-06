@@ -1,10 +1,13 @@
 ## Histogram Analysis Of NSE Historical Data Stock price returns  
-## Quater : 04-Jun-2021 to 04-Jun-2020 using Python
+### Quater : 04-Jun-2021 to 04-Jun-2020 using Python
 
 ## Stock Trading Jargons :
-> In stock trading, the high and low refer to the maximum and minimum prices in a given time period. 
+> In stock trading, the high and low refer to the maximum and minimum prices in a given time period.
+>  
 > Open and close are the prices at which a stock began and ended trading in the same period. 
+> 
 > Volume is the total amount of trading activity. 
+> 
 > Adjusted values factor in corporate actions such as dividends, stock splits, and new share issuance.
 > 
 #### Open 
