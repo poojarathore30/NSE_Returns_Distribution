@@ -1,4 +1,5 @@
-## Histogram Analysis Of NSE Historical Data returns for the quater 04-Jun-2021 to 04-Jun-2020 using Python
+## Histogram Analysis Of NSE Historical Data Stock price returns  
+## Quater : 04-Jun-2021 to 04-Jun-2020 using Python
 
 ## Stock Trading Jargons :
 > In stock trading, the high and low refer to the maximum and minimum prices in a given time period. 
